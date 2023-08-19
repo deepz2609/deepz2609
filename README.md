@@ -15,9 +15,9 @@ I'm a Computer Science Engineering student at VCET Puttur. My interests span acr
 
 ## 💬 Let's Connect
 
-- 📫 Reach me at: [your.email@example.com](geekydeepz09@gmail.com.com)
+- 📫 Reach me at: [geekydeepz09@gmail.com.com]
 - 💼 Connect with me on [LinkedIn](ww.linkedin.com/in/deepak-kumar-470486289)
-- 🌐 Visit my personal website: [yourwebsite.com](coming soon..)
+- 🌐 Visit my personal website: [website.com](coming soon..)
 
 ## 🚀 Fun Fact
 
