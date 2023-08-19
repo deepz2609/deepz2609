@@ -25,7 +25,7 @@ I love solving puzzles and brain teasers. Coding and hacking often feel like sol
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?deepz2609=yourusername&show_icons=true&theme=dark)
 
 ## 🛠️ My Skills
 
