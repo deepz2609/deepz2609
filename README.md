@@ -29,14 +29,12 @@ I love solving puzzles and brain teasers. Coding and hacking often feel like sol
 
 ## 🛠️ My Skills
 
-- Programming Languages: Python, Java, C++
-- Web Development: HTML, CSS, JavaScript
-- Security Tools: Wireshark, Nmap, Metasploit
+- Programming Languages: Python
+- Security Tools:Nmap, Metasploit
 - Version Control: Git
+- Containerization: Docker
 
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions!
 
-<!--
-Note: Replace "yourusername" with your actual GitHub username and provide the correct links, email, and other details.
--->
+
