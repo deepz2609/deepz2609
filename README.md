@@ -33,6 +33,7 @@ I love solving puzzles and brain teasers. Coding and hacking often feel like sol
 - Security Tools:Nmap, Metasploit
 - Version Control: Git
 - Containerization: Docker
+- web development: node.js,express.js,MongoDB
 
 
 Feel free to explore my repositories and don't hesitate to reach out if you have any questions or suggestions!
