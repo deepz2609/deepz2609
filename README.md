@@ -24,8 +24,8 @@
   <a href="www.linkedin.com/in/deepak-kumar-470486289" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Deepak Kumar" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/code_with_deepz.26" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - code_with_deepz.26 " height="30" width="40" />
+  <a href="https://instagram.com/code_with_deepz" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram - code_with_deepz" height="30" width="40" />
   </a>
 
   <a href="https://www.hackerrank.com/geekydeepz09" target="_blank">
