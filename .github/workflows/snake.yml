@@ -8,6 +8,10 @@ on:
     branches:
       - main
 
+# Add permissions for GitHub Actions
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest

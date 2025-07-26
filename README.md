@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=uttam-rai&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=deepz2609&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 
